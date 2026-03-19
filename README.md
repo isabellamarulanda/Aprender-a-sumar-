@@ -1,2 +1,9 @@
-# **Aprender-a-sumar-**
-En este caso solo vamos a hacer un ejemplo para aprender a usar Github
+# **Aprender-a-sumar👌**
+
+# *Integrantes*
+## **Isabella Marulanda**
+### Descriopcion 
+> Soy una joven estudiante de ingenieria industrial de tecer semestre que si tiene carnet
+## **Raquel Morillo**
+### Descripcion 
+ Soy humano, no tiene carnet 
